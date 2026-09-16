@@ -1,0 +1,12 @@
+.about-body {
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+  max-width: 68ch;
+  color: var(--text-muted);
+  font-size: 1.04rem;
+}
+
+.about-body p {
+  line-height: 1.75;
+}
