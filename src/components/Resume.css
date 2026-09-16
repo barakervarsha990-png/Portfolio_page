@@ -1,0 +1,18 @@
+.resume-card {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 24px;
+  flex-wrap: wrap;
+}
+
+.resume-card h2 {
+  font-size: 1.4rem;
+  color: var(--text);
+  margin-bottom: 8px;
+}
+
+.resume-card p {
+  color: var(--text-muted);
+  max-width: 46ch;
+}

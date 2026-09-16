@@ -1,0 +1,42 @@
+.experience-list {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.experience-item {
+  display: flex;
+  gap: 18px;
+  align-items: flex-start;
+}
+
+.experience-icon {
+  flex-shrink: 0;
+  width: 42px;
+  height: 42px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 10px;
+  background: var(--accent-soft);
+  color: var(--accent);
+}
+
+.experience-item h3 {
+  font-size: 1.05rem;
+  color: var(--text);
+}
+
+.experience-company {
+  color: var(--accent);
+  font-size: 0.9rem;
+  margin-top: 4px;
+}
+
+.experience-desc {
+  color: var(--text-muted);
+  font-size: 0.96rem;
+  margin-top: 10px;
+  line-height: 1.65;
+  max-width: 62ch;
+}
