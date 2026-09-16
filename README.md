@@ -1,16 +1,58 @@
-# React + Vite
+# 🌐 Varsha Baraker — Personal Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+Welcome to my personal developer portfolio.
 
-Currently, two official plugins are available:
+I am a final-year Computer Science and Engineering student interested in Python, Web Development, Artificial Intelligence, Machine Learning, and Data Science.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Technologies
 
-## React Compiler
+* Python
+* JavaScript
+* React.js
+* Node.js
+* Express.js
+* MongoDB
+* SQL
+* Machine Learning
+* Git & GitHub
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 📂 Featured Projects
 
-## Expanding the Oxlint configuration
+### 🛡️ AI-Driven User Behaviour Analytics
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+AI-based cybersecurity project for detecting suspicious user behaviour, insider threats, and account takeover activities.
+
+**Technologies:** Python, Machine Learning, React.js, Node.js, MongoDB
+
+### 🔐 Data Encryption & Decryption using AI
+
+Python-based application for encrypting and decrypting text and files.
+
+**Technologies:** Python, Streamlit, Machine Learning
+
+### 📈 Stock Portfolio Web Application
+
+Web application for managing and monitoring stock portfolio information.
+
+**Technologies:** Python, HTML, CSS, JavaScript
+
+## 💼 Internship
+
+**CodeAlpha — Python Internship**
+
+Completed an online Python internship involving Python programming tasks and projects.
+
+## 📜 Certifications
+
+* CodeAlpha Python Internship Certificate
+* Kaggle — 5-Day AI Agents: Intensive Vibe Coding Course With Google!
+
+## 🌐 Portfolio
+
+Add your deployed portfolio URL here.
+
+## 📫 Contact
+
+* LinkedIn: Add your LinkedIn URL
+* GitHub: Add your GitHub URL
+* Email: Add your email address
